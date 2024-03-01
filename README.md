@@ -1,5 +1,6 @@
 - Hi, I’m @Brandon-Moye
-- I’m interested in creating and helping with beginner projects to expand my technical knowlegdge
+- I am a self-taught developer looking to take my skills to the professional level!
+- I currently work as a process software engineer writing algorithms for process eqiupment
 - I’m currently learning React, JavaScript, HTML, and CSS
 - Portfolio: https://brandon-moye.github.io/
 - Email: brandon.m.moye@gmail.com
