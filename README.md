@@ -4,7 +4,7 @@
 - I’m currently learning React, MongoDB, JavaScript, HTML, and CSS
 - [Portfolio](https://brandon-moye.github.io/)
 - [LinkedIn](www.linkedin.com/in/brandonmoye)
-- Email: brandon.m.moye@gmail.com
+- brandon.m.moye@gmail.com
 <!---
 Brandon-Moye/Brandon-Moye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
