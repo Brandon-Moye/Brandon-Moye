@@ -1,6 +1,6 @@
 - Hi, I’m @Brandon-Moye
 - I am a self-taught developer looking to take my skills to the professional level!
-- I work as a process software engineer writing algorithms for process eqiupment
+- I work as a software engineer writing algorithms for process eqiupment
 - I’m currently learning React, MongoDB, JavaScript, HTML, and CSS
 - My active project is [Bridge](https://github.com/Brandon-Moye/Bridge), it is in early development
 - [Portfolio](https://brandon-moye.github.io/)
