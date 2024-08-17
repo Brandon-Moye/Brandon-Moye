@@ -14,9 +14,8 @@
 
 ### About Me
 - 🚀 **Software Engineer** specializing in algorithms for process equipment.
-- 🌱 Currently mastering **MongoDB Atlas & Realm**, **React**, **JavaScript**, **HTML**, and **CSS**.
+- 🌱 Currently mastering **MongoDB Atlas & Realm**, **React**, and **JavaScript**.
 - 🛠 **Self-taught developer** eager to transition to professional-level projects.
-- ⚡ Fun Fact: I led a $5M system upgrade, enhancing both hardware and software capabilities!
 
 ---
 
