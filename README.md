@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Brandon Moye 👋</h1>
+<h1 align="center">Hello, I'm Brandon Moye</h1>
 <p align="center">
   <a href="https://brandon-moye.github.io/"><img src="https://img.shields.io/badge/Portfolio-brandon--moye.github.io-blue?style=flat-square&logo=Google-Chrome"></a>
   <a href="https://www.linkedin.com/in/brandonmoye"><img src="https://img.shields.io/badge/LinkedIn-brandonmoye-blue?style=flat-square&logo=LinkedIn"></a>
