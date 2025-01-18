@@ -15,7 +15,6 @@
 ### About Me
 - 🚀 **Software Engineer** specializing in algorithms for process equipment.
 - 🌱 Currently mastering **MongoDB Atlas & Realm**, **React**, and **JavaScript**.
-- 🛠 **Self-taught developer** eager to transition to professional-level projects.
 
 ---
 
