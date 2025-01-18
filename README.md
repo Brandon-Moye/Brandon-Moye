@@ -33,6 +33,6 @@
 ---
 
 ### 📫 Contact Me
-- Email: brandon.m.moye@gmail.com
+- [Email](brandon.m.moye@gmail.com)
 - [Portfolio](https://brandon-moye.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/brandonmoye)
