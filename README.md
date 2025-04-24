@@ -7,8 +7,10 @@
 
 ---
 
-### 🌟 Featured Project: [Bridge](https://github.com/Brandon-Moye/Bridge)
-- Bridge is my active project, currently in early development. Stay tuned for updates!
+### 🌟 Featured Project: just-a-bill (currently a private repo)
+- It is my active project, currently in early development. Stay tuned for updates!
+- I am utilizing the Library of Congress API to pull in governmental data
+- Ollama is ran locally to leverage AI to analyze legal documents and explain them to everday citizens
 
 ---
 
