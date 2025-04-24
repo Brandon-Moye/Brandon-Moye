@@ -9,7 +9,7 @@
 
 ### 🌟 Featured Project: just-a-bill (currently a private repo)
 - It is my active project, currently in early development. Stay tuned for updates!
-- I am utilizing the Library of Congress API to pull in governmental data
+- I am utilizing the Library of Congress API to pull in governmental data with Node.js
 - Ollama is ran locally to leverage AI to analyze legal documents and explain them to everday citizens
 
 ---
